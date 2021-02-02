@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SimpleTodo" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/brown</item>
+        <item name="colorPrimaryDark">@color/brownlight</item>
+        <item name="colorAccent">@color/brown</item>
+        <item name="android:fontFamily">@font/latobold</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
